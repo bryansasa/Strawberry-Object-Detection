@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
+  <diagram name="Halaman-1" id="ArXPw9mkvTvI5PieBeRx">
+    <mxGraphModel dx="1042" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O0-iT7pGBUmaX64PK25W-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DPIffeZ-97VS7npbHeOr-1" target="DPIffeZ-97VS7npbHeOr-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-1" value="Sudut Motor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-6" target="DPIffeZ-97VS7npbHeOr-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" parent="1" vertex="1">
+          <mxGeometry x="220" y="205" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-7" value="x(t)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-9" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-10" target="DPIffeZ-97VS7npbHeOr-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="DPIffeZ-97VS7npbHeOr-10" target="DPIffeZ-97VS7npbHeOr-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Arduino UNO R3)&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="315" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-12" target="DPIffeZ-97VS7npbHeOr-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DPIffeZ-97VS7npbHeOr-12" target="DPIffeZ-97VS7npbHeOr-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-12" value="Motor&lt;div&gt;&amp;nbsp;Driver L298N&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-14" target="DPIffeZ-97VS7npbHeOr-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-14" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Motor JGA25370 With Built In Encoder&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-16" target="DPIffeZ-97VS7npbHeOr-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="230.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-16" value="Motor JGA25370 With Built In Encoder" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="690" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-21" value="&lt;br&gt;Encoder Sudut" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="690" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DPIffeZ-97VS7npbHeOr-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="260.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-23" value="&lt;br&gt;Encoder Kecepatan" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="690" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-24" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DPIffeZ-97VS7npbHeOr-21" target="DPIffeZ-97VS7npbHeOr-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-28" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="235" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DPIffeZ-97VS7npbHeOr-10" target="DPIffeZ-97VS7npbHeOr-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DPIffeZ-97VS7npbHeOr-39" value="y(t)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O0-iT7pGBUmaX64PK25W-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O0-iT7pGBUmaX64PK25W-1" target="DPIffeZ-97VS7npbHeOr-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="260" />
+              <mxPoint x="160" y="260" />
+              <mxPoint x="160" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0-iT7pGBUmaX64PK25W-1" value="Kecepatan Motor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
